@@ -12,7 +12,7 @@ class DataStore {
     this.createUser({
       id: 'demo-investor-1',
       email: 'investor@demo.com',
-      password: '$2a$10$8K1p/a0dClAuN7Hv5K9E4ec.V8NKYMFzV8Z8J7ZGJw8G5t8uZJ8ve', // password123
+      password: '$2a$10$1tg/cRaZ4MJg9kYAvAiVIOpduT93KHfWfp1hSkLw4ASMisjFufpO6', // password123
       name: 'John Investor',
       userType: 'investor',
       phone: '+1-555-0123',
@@ -27,7 +27,7 @@ class DataStore {
     this.createUser({
       id: 'demo-franchisee-1',
       email: 'franchisee@demo.com',
-      password: '$2a$10$8K1p/a0dClAuN7Hv5K9E4ec.V8NKYMFzV8Z8J7ZGJw8G5t8uZJ8ve', // password123
+      password: '$2a$10$1tg/cRaZ4MJg9kYAvAiVIOpduT93KHfWfp1hSkLw4ASMisjFufpO6', // password123
       name: 'Sarah Franchisor',
       userType: 'franchisee',
       phone: '+1-555-0456',
